@@ -4,6 +4,7 @@ Activities related to data science skill set.
 ## John Rollins Process
 | Task | Questions Answered After Performing the Task | Content |
 |---|---|---|
+| Business Understanding | What is the problem that you are trying to solve? | |
 | Analytic Approach | How can you use data to answer the business question? | |
 | Data Requirements | What data do you need to answer the question? | [DS0103EN-Review-From-Requirements-to-Collection.ipynb](https://github.com/solver-Mart1n/data-science/blob/main/reference/ibm_ds/DS0103EN-Review-From-Requirements-to-Collection.ipynb) |
 | Data Collection | Where is the data sourced from, and how will you receive the data? | [DS0103EN-Review-From-Requirements-to-Collection.ipynb](https://github.com/solver-Mart1n/data-science/blob/main/reference/ibm_ds/DS0103EN-Review-From-Requirements-to-Collection.ipynb) |
