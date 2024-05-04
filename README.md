@@ -18,7 +18,7 @@ Activities related to data science skill set.
 ## Python for Data Science: *([data-science/reference/ibm_ds/python](https://github.com/solver-Mart1n/data-science/tree/main/reference/ibm_ds/language/python))*
 
 ## Python for Data Science Project *([Final Assignment-Jupyter Notebook.ipynb](https://github.com/solver-Mart1n/data-science/blob/main/reference/ibm_ds/language/python/final_project/answers/Final%20Assignment%20-%20Jupyter%20Notebook.ipynb))*
-The course 5 project from the IBM Data Science Certificate Program exposes the learner to building a  Python Notebook that exhibits knowledge and exemplifying the following:	
+The course 5 project from the IBM Data Science Certificate Program exposes the learner to building a  Python Notebook that exhibits knowledge and exemplifying the following web scraping and dashboarding skills:	
 |claim|description|
 |---|---|
 | claim 1	| display tables, such as historical stock data of a publicly traded company, from a website, such as Yahoo Finance, using the yfinance library visible from Question 1, Question 3; |
