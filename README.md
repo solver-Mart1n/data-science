@@ -15,5 +15,5 @@ Activities related to data science skill set.
 | Deployment | Can you put the model into practice? | |
 | Feedback | Can you get constructive feedback from the data and the stakeholder to answer the business question? | |
 
-## Python for Data Science: *([data-science/reference/ibm_ds/python](https://github.com/solver-Mart1n/data-science/tree/solver-Mart1n-c05w1p1-Webscraping/reference/ibm_ds/language/python))*
+## Python for Data Science: *([data-science/reference/ibm_ds/python](https://github.com/solver-Mart1n/data-science/tree/main/reference/ibm_ds/language/python))*
 
